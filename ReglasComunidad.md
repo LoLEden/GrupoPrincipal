@@ -1,4 +1,4 @@
-# Reglas de la Comunidad [LoL Edén](https://www.facebook.com/groups/2022819041062382):
+# Reglas de la Comunidad [LoL Edén](https://www.facebook.com/groups/2022819041062382) :
 
 ## Resumen:
 
@@ -35,4 +35,4 @@ Si crees que fuiste bloqueado del grupo injustamente, comunícate con la adminis
 
 - Pueden comunicarse con cualquier persona de la administración o moderación en nuestra página de la comunidad: [Por aquí](https://www.facebook.com/eden.lolen) . La respuesta de los mensajes por éste medio será la más expedita posible, sin embargo, debido a que todos tenemos cosas que hacer IRL, les pedimos paciencia.
 
-- También, pueden comunicarse personalmente con nosotros encontrándonos en: [Por acá](https://www.facebook.com/groups/1880475718937706/admins/) . La respuesta de los mensajes personales a algún miembro de la administración queda a plena responsabilidad del administrador. No se asegura una respuesta ni mucho menos un tiempo de respuesta.
+- También, pueden comunicarse personalmente con nosotros encontrándonos en: [Por acá](https://www.facebook.com/groups/1880475718937706/admins/) o [Por acá](https://github.com/LoLEden/GrupoPrincipal/blob/master/StaffLoLEdén.md). La respuesta de los mensajes personales a algún miembro de la administración queda a plena responsabilidad del administrador. No se asegura una respuesta ni mucho menos un tiempo de respuesta.
