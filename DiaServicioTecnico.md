@@ -1,5 +1,4 @@
 # Día del Servicio Técnico en LoL Edén
-
 Para publicar tus dudas, recuerda ir al tema en el grupo, en otros lados no se responderán, al menos por parte de la administración.
 
 ## Consideraciones Generales
@@ -8,8 +7,30 @@ Para publicar tus dudas, recuerda ir al tema en el grupo, en otros lados no se r
 - Te ayudaremos siempre y cuando mantengas una buena redacción y comportamiento dentro del tema. Recuerda que ésto es una ayuda de nosotros y no una obligación.
 - Nos reservamos el derecho a responder las preguntas que tengan, pese a que intentemos responderlas todas.
 - Si nos demoramos un poco más en responder alguna de las inquietudes, recuerda que también somos personas, tenemos vida y por supuesto problemas IRL.
-- Sólo nos preocupamos de problemas relacionados respecto a tu computador y el juego League of Legends.
-- 
+- Sólo nos preocupamos de problemas relacionados respecto a tu computador y el juego League of Legends. Para ésta ocasión nos enfocaremos sólo en sistemas basados en Windows (si tienes Windows XP, te recomiendo actualizar AHORA).
+
+## Preguntas Frecuentes
+
+- Hackeas Facebook ?
+- - No, y tampoco se hackea a las personas. Lo que sí se hace es usar ingeniería social para obtener datos de las personas o incluso, su clave, sin que se percaten de que es una posible robo de información.
+- Me enseñas a hacer lo último ?
+  - No.
+- Y hackear Whatsapp ?
+  - Lo mismo que lo anterior, pero un poco más complejo, la respuesta seguirá siendo No.
+- Programas ?
+  - Sí, en varios lenguajes de programación, pero no soy experto, así que no pienses que voy a hacer una aplicación que utilice el algoritmo de Dijkstra para resolver algo en el grupo.
+- Estudiaste algo relacionado con la informática ?
+  - Sí, pero no va al caso. En las carreras de Informática tradicionales (Analista Programador, Ing. en Informática, Ing. Ejecución en Informática o Ing. Civil en Informática) no se enseñan éstos tópicos, si no más bien se enseña a desarrollar soluciones mediante la informática. Así que si piensas estudiar informática para arreglar computadores, te recomiendo busques otras áreas de estudio.
+- Me ayudas con mi tarea?
+  - No, los estudiantes de informática deberían tener las capacidades resolutivas en el corazón.
+- Qué antivirus usas ?
+  - Ninguno, a lo más Windows Defender para no tener el ícono en rojo en la barra de tareas.
+- Me formatearon el computador y anda más lento que antes
+  - Probablemente sea que no te instalaron todos los drivers en tu pc. Pídele a la persona que lo hizo, que revise bien su trabajo
+- Quiero formatear mi computador, me enseñas ?
+  - En otra ocasión dejaré un tutorial más personalizado por acá en el grupo, ya que por lo general requiere más atención que lo regular. Sin embargo te adelanto que necesitas mínimo un pendrive de 8GB !
+
+
 ## Consideraciones Particulares
 
 - No resolveremos problemas de tipo físico de tu computador. 
@@ -19,7 +40,7 @@ Para publicar tus dudas, recuerda ir al tema en el grupo, en otros lados no se r
   - Si prende pero no pasa el sistema operativo, puede ser directamente el disco duro / disco de estado sólido con problemas de almacenamiento o tu instalación del sistema operativo está corrupta.
   - Si está lento y sabes que tu computador es antiguo, quizás deberías considerar en una actualización (del equipo).
   - Si tu internet anda lento, recuerda utilizar un cable de red. Si aúna sí, sigue lento, llama a tu ISP (compañía de Internet) para más información.
-  - 
+   
 ## Información útil / Glosario
 
 #### CPU / Procesador
@@ -54,3 +75,11 @@ Si deseas saber por ejemplo Información sobre tu Tarjeta de Vídeo haz lo sigui
 - Luego presiona Pantalla
 
 Con esa información no deberías necesitar nada más (al menos para la situación que nos convoca).
+
+## Tips de seguridad
+
+La seguridad es uno de los aspectos más importantes a la hora de utilizar nuestros equipos, pero ésto depende 100% en su totalidad a cómo manejamos nosotros las diferentes situaciones que ocurren.
+
+- No descargues cosas de sitios sin confiar, como teemotrapitofreerp.com
+- No ingreses tus datos personales en sitios que no confías, y aún así, en los confiables, recuerda tener el candadito VERDE en la barra de navegación.
+- Un Rioter, una persona del staff o cualquiera en sí, jamás debería solicitarte los datos de tus cuentas, cualquiera que sea ésta. Recuerda, tus cuentas son tuyas.
