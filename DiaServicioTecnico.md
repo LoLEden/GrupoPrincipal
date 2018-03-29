@@ -1,4 +1,5 @@
 # Día del Servicio Técnico en LoL Edén
+
 Para publicar tus dudas, recuerda ir al tema en el grupo, en otros lados no se responderán, al menos por parte de la administración.
 
 ## Consideraciones Generales
