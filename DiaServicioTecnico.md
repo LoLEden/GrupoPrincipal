@@ -12,7 +12,7 @@ Para publicar tus dudas, recuerda ir al tema en el grupo, en otros lados no se r
 ## Preguntas Frecuentes
 
 - Hackeas Facebook ?
-- - No, y tampoco se hackea a las personas. Lo que sí se hace es usar ingeniería social para obtener datos de las personas o incluso, su clave, sin que se percaten de que es una posible robo de información.
+  - No, y tampoco se hackea a las personas. Lo que sí se hace es usar ingeniería social para obtener datos de las personas o incluso, su clave, sin que se percaten de que es una posible robo de información.
 - Me enseñas a hacer lo último ?
   - No.
 - Y hackear Whatsapp ?
