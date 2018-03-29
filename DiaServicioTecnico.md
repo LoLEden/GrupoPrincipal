@@ -57,6 +57,16 @@ Qué es la RAM ?
 Qué hace la RAM ?
 >Cuanta más RAM tengas, más información podrás almacenar en ella (en lugar de en el disco duro/disco estado sólido). Por desgracia, tener muchos programas abiertos a la vez puede consumir la memoria disponible. Esto puede afectar a los tiempos de carga y a la correcta ejecución del juego. Antes de jugar a League of Legends intenta cerrar todos los programas innecesarios que puedas. ¡Deberías notar al instante una mejora de la velocidad respecto a cuando te quedas corto de memoria!
 
+#### GPU / Graphics Processor Unit ó IGP / Integrated Graphics Processor
+Qué es la GPU ?
+>Es la pieza clave de tu computador que se dedica a todo lo que es el renderizado de texturas, vectores y todo lo que se relacione con el vídeo o visualización en tu computador. Ésta pieza tiene importancia en muchos ámbitos para tu computador, que abarcan desde ver un vídeo en Youtube por Google Chrome hasta renderizar texturas 3D en algún programa especializado.
+
+Qué hace la GPU ?
+>Para estos casos, es la pieza de tu PC que te dará más FPS (Frames per Second / cuadros por segundo) en el juego.
+
+Qué es un IGP ?
+>No todos los computadores cuentan con una tarjeta de vídeo dedicada (GPU), en éstos casos el procesador viene con una pequeña 'tarjeta de vídeo' que te ayudará con todas las actividades que una GPU debería realizar, obviamente con un rendimiento MUY por debajo de lo normal ya que, como se dijo anteriormente, sus componentes no son dedicados.
+
 - por añadir (...)
 
 ## Cómo saber las especificaciones de mi pc ? [Windows]
@@ -83,3 +93,13 @@ La seguridad es uno de los aspectos más importantes a la hora de utilizar nuest
 - No descargues cosas de sitios sin confiar, como teemotrapitofreerp.com
 - No ingreses tus datos personales en sitios que no confías, y aún así, en los confiables, recuerda tener el candadito VERDE en la barra de navegación.
 - Un Rioter, una persona del staff o cualquiera en sí, jamás debería solicitarte los datos de tus cuentas, cualquiera que sea ésta. Recuerda, tus cuentas son tuyas.
+ 
+## Tips de Rendimiento
+
+El rendimiento de un computador es algo que a todos nos preocupa a la hora de realizar nuestras tareas, así que te dejo con algunos tips para que no pierdas de foco tu ranked.
+
+- No mantengas muchas aplicaciones abiertas, ésto afecta a tu rendimiento tal cuál se describe en la descripción de la RAM. Además de forzar a tu pc a realizar múltiples tareas cuando las aplicaciones (muy probablemente) no se optimicen para ésto.
+- Si tienes tu navegador abierto mientras juegas, mantenlo con la menor cantidad de pestañas abiertas. Muchos de los navegadores modernos como Chrome, Firefox u Opera (entre otros) abren cada pestaña en un nuevo proceso. Este "nuevo proceso" puede ser llamado una aplicación más abierta. Por ejemplo Facebook, por pestaña abierta puede llegar a gastar más de 300MB de RAM, sólo por tener abierta la pestaña. Y esto no es culpa del navegador, es culpa del desarrollador (en este caso Facebook).
+- JAMÁS tengas más de un antivirus. Tener más de un antivirus no va a convertir tu pc en algo invulnerable e impenetrable. Te aconsejo tener a lo más UN antivirus en tu computador. Y mi consejo, es tener uno de los siguientes: MalwareBytes como antimalware o Windows Defender (actualizado para la última versión de Windows 10).
+- - "QUÉ ? WINDOWS DEFENDER ? ESTÁS LOCO ?", no, no estoy loco, la seguridad de tu computador debe ser velada personalmente y no por un antivirus, sin embargo, para programas que comprometan tu seguridad, debería bastar.
+- No uses por ningún motivo software de terceros que modifiquen EL JUEGO. Con ésto quiero hacer énfasis en que según Riot, sí puedes utilizar creadores de Builds para tus campeones (Championify por ejemplo) o modificar la voz para escuchar a la Ahri Japonesa, sin embargo la recomendación va a que uses software que modifique tu juego para obtener alguna ventaja, los popularmente llamados SCRIPTS. Por qué ? Por el simple hecho de que vienen empaquetados y encriptados de forma que jamás sepas que pasa adentro. Ésto los convierte en una brecha de seguridad terrible para tu computador, aparte de comprometer y poner en riesgo tu cuenta y obviamente, hacer la experiencia de juego para los demás algo molesta.
